@@ -1,5 +1,4 @@
 # CyberAttack Financial Loss Predictor 
-# (UPDATE IN README.md) Project Title
 
 (UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
@@ -44,7 +43,7 @@ Enumerate the main results of this project in a list and describe them.
 Include any relevant data sources that were used in your project.
 
 *EXAMPLE:*
-*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)*
+*Kaggle Datasets: [Link to Kaggle Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024/data))*
 
 ## Technologies Used <!--- do not change this line -->
 
