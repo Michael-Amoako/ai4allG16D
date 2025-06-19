@@ -64,4 +64,4 @@ List the names and contact information (e.g., email, GitHub profiles) of the aut
 *EXAMPLE:*
 *This project was completed in collaboration with:*
 - *Michael Amoako ([mamoako.1521@gmail.com](mailto:mamoako.1521@gmail.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- *Khai Xin Kuan ([kk996@cornell.edu](mailto: kk996@cornell.edu))*
