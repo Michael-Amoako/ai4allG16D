@@ -1,6 +1,6 @@
 # CyberAttack Financial Loss Predictor 
 
-Developed a neural network model to predict the financial loss ($M) of cyberattacks using kaggle datasets from 2015–2024. Learned to employ ython techniques and data analysis methodologies all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.
+Developed a neural network model to predict the financial loss ($M) of cyberattacks using kaggle datasets from 2015–2024. Learned to employ python techniques and data analysis methodologies all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.
 
 
 ## Problem Statement <!--- do not change this line -->
