@@ -99,7 +99,9 @@ $ streamlit run streamlit_app.py
 
 *This project was completed in collaboration with:*
 - *Khai Xin ([kuankhaixin2003@gmail.com](mailto:jkuankhaixin2003@gmail.com))*
+- *Stacy Albert ([stacyalbert9@gmail.com](stacyalbert9@gmail.com))*
 - *Michael Amoako ([mamoako.1521@gmail.com](mailto:mamoako.1521@gmail.com))*
+- *Aditya Senthil ([Adityasenthil0117@gmail.com](mailto:Adityasenthil0117@gmail.com))*
 
 
 
